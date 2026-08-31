@@ -13,4 +13,4 @@
 
 ### For old list (reference), find any **Fire list vX.txt** that have lower version than v2
 
--# (Brought to you by M4thQuan58)
+<small>(Brought to you by M4thQuan58)</small>
