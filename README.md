@@ -8,6 +8,7 @@
 - Last but optional, go to fire setting and adjust to fit with your cases, such as "Update fire icons every X update interval(s)" or change fires conditions, especially Ice effect.
 
 **PROOF OF SAFE:**
+
 <img width="550" height="120" alt="Ảnh chụp màn hình 2026-08-31 131814" src="https://github.com/user-attachments/assets/02947114-2a50-437d-b97c-fff975b6a036" />
 
 ### For old list (reference), find any **Fire list vX.txt** that have lower version than v2
