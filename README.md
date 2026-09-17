@@ -1,5 +1,5 @@
 # LCEdit fire lists!
-### For regular fire list, go for **Fire list v2.txt** *(RECOMMENDED)*
+### For regular fire list, go for **Fire list v2.1.txt** *(RECOMMENDED)*
 ### For people who want to fast import in newer version (v7.8.2+), follow these steps:
 - Download **mdmfirereadytouse.json**
 - Open Top 50, go to tab "Import & Export Data"
@@ -11,6 +11,6 @@
 
 <img width="550" height="120" alt="Ảnh chụp màn hình 2026-08-31 131814" src="https://github.com/user-attachments/assets/02947114-2a50-437d-b97c-fff975b6a036" />
 
-### For old list (reference), find any **Fire list vX.txt** that have lower version than v2
+### For old list (reference), find any **Fire list vX.Y.txt** that have lower version than v2.1
 
 <small>(Brought to you by M4thQuan58)</small>
